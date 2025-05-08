@@ -158,9 +158,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram" />
   </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/nitriot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" alt="Discord" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="30" alt="Discord" />
   </a>
 </p>
+
 
 <p align="center">
   Made with ❤️ by <strong>Nitriot</strong> 
