@@ -1,0 +1,25 @@
+[package]
+name = "solana-rpc-checker"
+version = "1.0.0"
+edition = "2021"
+authors = ["Nitriot <nitriotsol@gmail.com>"]
+description = "A powerful tool to test and benchmark Solana RPC endpoints"
+repository = "https://github.com/nitriot/solana-rpc-checker"
+license = "MIT"
+keywords = ["solana", "rpc", "benchmark", "performance", "testing"]
+categories = ["command-line-utilities", "development-tools"]
+
+[dependencies]
+solana-client = "1.17.7"
+solana-sdk = "1.17.7"
+solana-transaction-status = "1.17.7"
+tokio = { version = "1.32.0", features = ["full"] }
+chrono = "0.4.31"
+colored = "2.0.4"
+serde = "1.0.188"
+serde_json = "1.0.107"
+clap = { version = "4.4.6", features = ["derive"] }
+reqwest = { version = "0.11.22", features = ["json"] }
+anyhow = "1.0.75"
+futures = "0.3.28"
+indicatif = "0.17.7"
