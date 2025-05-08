@@ -150,17 +150,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Socials
 
-<p align="center">
-  <a href="https://twitter.com/nitriotsol" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/vitualsolana" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/nitriot" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="30" alt="Discord" />
-  </a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nitriotsol)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitriot)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1303561933257179137)  
 
 
 <p align="center">
