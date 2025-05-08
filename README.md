@@ -127,7 +127,7 @@ All contributions are welcome 💜
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/solana-rpc-checker.git
+git clone https://github.com/nitriot/solana-rpc-checker.git
 cd solana-rpc-checker
 
 # Make a new feature branch
